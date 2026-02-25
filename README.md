@@ -23,7 +23,7 @@ The system classifies emails as:
 
 ## 🖥️ Project Screenshot
 
-![Spam Email Classifier UI](assets/ui.png)
+![Spam Email Classifier UI](ui.png)
 
 ---
 
